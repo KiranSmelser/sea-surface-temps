@@ -56,7 +56,7 @@ Clone the repo and create the conda environment:
 
 ```bash
 conda env create -f env/environment.yaml
-conda activate sea-surface-temperature
+conda activate sea-surface-temps
 pip install -r env/requirements.txt
 ```
 
